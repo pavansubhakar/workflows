@@ -4,3 +4,7 @@ labels : [""]
 description: "test description"
 code: "empty"
 displayName: "test"
+icon:
+  url: ""
+  bytes: []
+  fileType: ""
