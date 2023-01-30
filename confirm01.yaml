@@ -1,10 +1,10 @@
-name: "test"
-summary: "test"
-labels : ["label1", "label2"]
+name: "test name"
+summary: "test summary"
+labels : {"label1", "label2"}
 description: "test description"
-code: "empty"
-display_name: "test"
+code: "test code"
+display_name: "test display name"
 icon:
-  url: "url"
-  bytes: []
-  file_type: "file type"
+  url: "test url"
+  bytes: {}
+  file_type: "test file type"
