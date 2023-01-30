@@ -1,6 +1,6 @@
-name: test
-summary: test
-labels : []
-description: test description
-code: empty
-displayName: test
+name: "test"
+summary: "test"
+labels : [""]
+description: "test description"
+code: "empty"
+displayName: "test"
