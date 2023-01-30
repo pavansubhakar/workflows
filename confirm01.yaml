@@ -5,6 +5,6 @@ description: "test description"
 code: "empty"
 displayName: "test"
 icon:
-  url: ""
+  url: "url"
   bytes: []
-  fileType: ""
+  fileType: "file type"
