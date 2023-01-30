@@ -7,4 +7,4 @@ display_name: "test"
 icon:
   url: "url"
   bytes: []
-  fileType: "file type"
+  file_type: "file type"
