@@ -3,7 +3,6 @@ summary: test summary
 labels:
   - label11
   - label2
-description: test description
 display_name: test display name
 icon:
   url: test url
