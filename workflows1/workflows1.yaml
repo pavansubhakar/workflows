@@ -1,10 +1,10 @@
-name: test name
-summary: test summary
+name: WF1
+summary: WF1 Summary
 labels:
-  - label11
-  - label2
-display_name: test display name
+  - WF1 1
+  - WF1 2
+display_name: WF1 disp name
 icon:
-  url: test url
+  url: test url 1
   bytes: null
-  file_type: test file type
+  file_type: test file type 1
