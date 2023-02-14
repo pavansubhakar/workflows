@@ -1,9 +1,9 @@
-name: WF2
-summary: WF2 Summary
+name: workflows2
+summary: workflows2 Summary
 labels:
-  - WF2 1
-  - WF2 2
-display_name: WF2 disp name
+  - workflows2 1
+  - workflows2 2
+display_name: workflows2 disp name
 icon:
   url: test url 2
   bytes: null
